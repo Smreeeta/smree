@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Smreeta
+- 👀 I’m interested in solving problems through the use of various programming languages.
+- 🌱 I’m currently learning web development,Data structures and algorithm and python.
+- 📫 How to reach me ...
